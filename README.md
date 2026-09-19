@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a **Frontend Developer** specializing in building modern, responsive, and high-performance websites using **React**, **Tailwind CSS**, and **JavaScript** — built to deliver real results for clients.
 
@@ -30,7 +30,7 @@ I'm a **Frontend Developer** specializing in building modern, responsive, and hi
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
